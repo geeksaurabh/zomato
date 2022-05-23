@@ -1,0 +1,58 @@
+.containe {
+  background: rgba(0, 0, 0, 0.7)
+    url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+  height: 450px;
+  background-size: cover;
+}
+.containe .nav a {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  padding: 20px;
+  font-size: large;
+  margin-bottom: 50px;
+}
+* {
+  font-family: sans-serif;
+}
+.containe .headercontent .zomatoimg {
+  margin: 20px auto;
+  /* border: 2px black solid; */
+  text-align: center;
+}
+.containe .headercontent h1 {
+  text-align: center;
+  color: white;
+}
+.containe .dropdown {
+  color: grey;
+  text-align: center;
+  display: flex;
+  margin: 10px auto;
+}
+.containe .dropdown .dropdown button {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  width: 250px;
+  border-right: 8px white solid;
+}
+.containe .dropdown .dropdown input {
+  padding: 10px;
+  width: 500px;
+}
+
+.cards .container .row .col-3 .card {
+  margin-right: 2px;
+  border-radius: 10%;
+}
+.card {
+  margin: none;
+}
+.card-text {
+  text-align: center;
+}
+#photoform {
+  width: 1000px;
+  margin-left: 300px;
+}
